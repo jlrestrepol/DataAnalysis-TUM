@@ -1,0 +1,19 @@
+# Extensions
+*.pdf
+*.zip
+*.txt
+*.png
+*.jpeg
+
+# Folders
+Notes/
+Photos/
+
+# Distribution
+.DS_Store
+
+# Jupyter notebook
+.ipynb_checkpoints
+
+#pyenv
+.python-versione
